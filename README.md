@@ -37,3 +37,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
