@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 
+
 ### Technologies
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -39,3 +40,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
